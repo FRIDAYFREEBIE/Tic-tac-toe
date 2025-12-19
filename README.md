@@ -25,6 +25,6 @@
 ---
 
 ## 📄 프로젝트 자료
-[구글 드라이브로 이동](https://drive.google.com/drive/folders/1CeY2I_sZLpQ1sAwsbt7mu27cwntI-yxJ?usp=sharing) (실행 가능한 exe 파일이 있습니다.)
+[티스토리로 이동](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Tic-tac-toe%20%28Windows%20Programming%29)
 
 ---
