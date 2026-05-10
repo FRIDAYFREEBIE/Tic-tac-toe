@@ -1,30 +1,45 @@
 # Tic-tac-toe
 
-### 🎮 두번째 토이 프로젝트
+### 🎮 Second Toy Project
 
 ---
 
-## 📌 **프로젝트 개요**
-- **게임 장르**: 미니 게임
-- **개발 기간**: 2025-09-17 ~ 2025-09-21
-- **팀 구성**: 1인 개발
-- **목표**: 전공 강의 시간에 배운 윈도우 프로그래밍을 더 이해하기 위함
+## 📌 Project Overview
+- **Game Genre**: Mini Game
+- **Development Period**: 2025-09-17 ~ 2025-09-21
+- **Team Size**: Solo Development
+- **Goal**: To gain a deeper understanding of Windows Programming concepts learned during university lectures
 
 ---
 
-## 🔑 **주요 기술 사항**
-- **C++**: 프로그래밍 언어
+## 🔑 Key Technologies
+- **C++**
+  - Core programming language used for the project
+
+- **Windows Programming**
+  - Implemented game logic using the Windows API
+  - Managed window events and message handling
+  - Rendered graphical elements directly through Windows programming techniques
+
+- **Graphics Rendering**
+  - Implemented board rendering and UI drawing
+  - Learned how graphical components are displayed and updated in a Windows environment
 
 ---
 
-## 🤔 **느낀점과 배운점**
-- 처음 사용해 본 윈도우 프로그래밍이였기 때문에 시행착오가 굉장히 많았습니다.
-- 윈도우 프로그래밍은 다른 프로그램과 작동 방식이 조금 다르다는 것을 알게 되었습니다.
-- 핸들의 개념은 물론 그래픽 요소를 그리는 방식이 생소했지만 틱택토를 만들면서 이해할 수 있었습니다.
+## 🤔 What I Learned
+- Since this was my first experience with Windows Programming, I went through many trials and errors during development.
+
+- I learned that Windows Programming works quite differently from standard console or game development environments.
+
+- Although concepts such as handles and graphical rendering were unfamiliar at first, developing Tic-tac-toe helped me better understand how Windows applications process input and render graphics.
 
 ---
 
-## 📄 프로젝트 자료
-[티스토리로 이동](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Tic-tac-toe%20%28Windows%20Programming%29)
+## 📄 Project Resources
+[Tistory Blog Post ](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Tic-tac-toe%20%28Windows%20Programming%29)
+
+**Play gif**
+![gif1](./Image/play.gif)
 
 ---
